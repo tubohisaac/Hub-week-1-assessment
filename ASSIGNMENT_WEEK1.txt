@@ -1,0 +1,29 @@
+      
+   // WEEK 1 ASSIGNMENT 
+QUESTION 1 : 10 Advantages of agile and % disadvantages 
+        Advantages 
+1. customer satisfaction by rapid, continous delivery of useful software
+2. people and interaction are emphasied rather than process and tools
+3. working software is deliveresd frequently ( weeks rtaher than months)
+4. face to face conversation is the beat form of communication
+5. close, daily cooperation btw business people and developers
+6. continous attetion to technical excellence and good design
+7. regular adaptation to changes circumstances
+8. late changes in requirements are welcomed
+9. projects are built around motivated individuals who should be trusted
+10. it concentrates on every process with expert team members
+
+      Disadvantages
+1. in case of some large software deliverables, it is difficult to assess the effort required at the beginning of the SDLC
+2. there is lack of emphasis on necessary designing and documentation
+3. the project can easily get taken off track if the customer rep is not clear what the final outcome that they want
+4. it is not useful for small dev. projects
+5. it is slightly more in cost as compared to other methodology 
+6. only experts can take critical decisions
+
+
+
+
+ 
+
+     
